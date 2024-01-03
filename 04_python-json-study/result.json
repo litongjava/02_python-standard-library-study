@@ -1,0 +1,35 @@
+{
+  "result": [
+    {
+      "sentence": "[_BEG_] and who needs help with what, and who's going when.[_TT_200]",
+      "t0": "00:00:00.000",
+      "t1": "00:00:04.000"
+    },
+    {
+      "sentence": " And some people might want to move earlier because they're already[_TT_375]",
+      "t0": "00:00:04.000",
+      "t1": "00:00:07.500"
+    },
+    {
+      "sentence": " and other people may be needed to change a little bit later.[_TT_555]",
+      "t0": "00:00:07.500",
+      "t1": "00:00:11.100"
+    },
+    {
+      "sentence": " So we'll go over that and we'll go over the[_TT_711]",
+      "t0": "00:00:11.100",
+      "t1": "00:00:14.220"
+    },
+    {
+      "sentence": " grading sheet for the final presentation.[_TT_885]",
+      "t0": "00:00:14.220",
+      "t1": "00:00:17.700"
+    },
+    {
+      "sentence": " And then after that you'll have some time to[_TT_1065]",
+      "t0": "00:00:17.700",
+      "t1": "00:00:21.300"
+    }
+  ],
+  "status": "ok"
+}
